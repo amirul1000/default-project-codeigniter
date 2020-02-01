@@ -4,12 +4,19 @@ Default Project in CodeIgniter
 ============================================
 
 Login
+
 Logout
+
 Register
+
 Profile
+
 Users
+
 Company
+
 HTML Templates
+
 
 Youtube Tutorial : 
 
